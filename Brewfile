@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 1password
 cask install alfred
 cask install amethyst
 cask install appcleaner
@@ -21,6 +22,7 @@ cask install karabiner
 cask install marsedit
 cask install opera
 cask install skim
+cask install slack
 cask install sourcetree
 cask install textexpander
 cask install toggldesktop
@@ -61,7 +63,7 @@ install automake
 install cairo
 install cask
 install czmq
-install emacs --cocoa --japanese
+install emacs
 install fontconfig
 install fontforge
 install freetype
@@ -93,39 +95,8 @@ install xz
 install zeromq
 install zsh
 
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install parallels (!)
-
 # App Store applications
-appstore Clean
-appstore Clipboard History
-appstore Compare Folders
-appstore CSS3 ButtonBuilder
-appstore Dash
-appstore DragonDrop
-appstore DupCleaner
-appstore Duplicate File Cleaner
-appstore ExSqueeze it
-appstore GarageBand
-appstore iMovie
-appstore iPhoto
 appstore Keynote
-appstore Kobito
-appstore LINE
-appstore Memory Clean
-appstore Microsoft Remote Desktop
-appstore Mousepose
 appstore Numbers
-appstore Osfoora
 appstore Pages
-appstore PinPoint
-appstore Pocket
-appstore PopClip
-appstore Skitch
-appstore Slack
-appstore Todoist
-appstore Wunderlist
 appstore Xcode
-appstore Zoom It
