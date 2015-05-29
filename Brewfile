@@ -13,6 +13,7 @@ cask install bettertouchtool
 cask install brackets
 cask install coda
 cask install coteditor
+cask install dropbox
 cask install evernote
 cask install google-chrome
 cask install google-drive
