@@ -58,12 +58,13 @@ install ricty
 
 # Other Homebrew packages
 install ack
+install arp-scan
 install autoconf
 install automake
 install cairo
 install cask
 install czmq
-install emacs
+install emacs --cocoa --japanese
 install fontconfig
 install fontforge
 install freetype
@@ -78,6 +79,7 @@ install hub
 install icu4c
 install ipcalc
 install jpeg
+install jq
 install libffi
 install libpng
 install libtiff
@@ -92,11 +94,44 @@ install python
 install readline
 install sqlite
 install xz
+install yajl
 install zeromq
 install zsh
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask install parallels (!)
+
 # App Store applications
+appstore Clean
+appstore Clipboard History
+appstore Compare Folders
+appstore CSS3 ButtonBuilder
+appstore Dash
+appstore DragonDrop
+appstore DupCleaner
+appstore Duplicate File Cleaner
+appstore ExSqueeze it
+appstore GarageBand
+appstore iMovie
+appstore iPhoto
 appstore Keynote
+appstore Kobito
+appstore LINE
+appstore Memory Clean
+appstore Microsoft Remote Desktop
+appstore Mousepose
 appstore Numbers
+appstore Osfoora
 appstore Pages
+appstore PinPoint
+appstore Pocket
+appstore PopClip
+appstore Skitch
+appstore Slack
+appstore Todoist
+appstore VisualJSON
+appstore Wunderlist
 appstore Xcode
+appstore Zoom It
