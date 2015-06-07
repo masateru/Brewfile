@@ -126,6 +126,7 @@ appstore Mousepose
 appstore Numbers
 appstore Osfoora
 appstore Pages
+appstore Pasteasy
 appstore PinPoint
 appstore Pocket
 appstore PopClip
